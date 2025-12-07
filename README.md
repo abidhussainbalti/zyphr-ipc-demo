@@ -1,11 +1,14 @@
 # Project Stucture
-'''my_ipc_app/
-├── src/            # Main C code
-├── prj.conf        # Zephyr project configuration
-├── run_ipc_demo.sh # Run/build script
-├── README.md       # Project documentation
-└── .gitignore      # Ignored files
-  '''
+'''
+zyphr-ipc-demo/
+├── src/
+│   └── main.c
+├── .gitignore
+├── README.md
+├── CMakeLists.txt
+└── prj.conf
+
+'''
 
 
 # Zephyr IPC Demo Project
