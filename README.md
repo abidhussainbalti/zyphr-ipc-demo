@@ -7,8 +7,8 @@ zyphr-ipc-demo/
 ├── README.md
 ├── CMakeLists.txt
 └── prj.conf
-
 '''
+
 
 
 # Zephyr IPC Demo Project
