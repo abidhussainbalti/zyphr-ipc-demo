@@ -1,5 +1,5 @@
 # Project Stucture
-'''
+```
 zyphr-ipc-demo/
 ├── src/
 │   └── main.c
@@ -7,7 +7,7 @@ zyphr-ipc-demo/
 ├── README.md
 ├── CMakeLists.txt
 └── prj.conf
-'''
+```
 
 
 
